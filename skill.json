@@ -1,20 +1,24 @@
 {
   "name": "Karyote GM Skill",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "author": "OpenAI + User Worldbuild",
-  "description": "A dark fantasy TRPG GM skill for the world of Karyote, including narrative control and battle rules.",
+  "description": "A dark fantasy TRPG GM skill for the world of Karyote, including narrative control, world data, encounter generation, and battle rules.",
   "language": "zh-CN",
   "entry": "skill.md",
   "files": [
     "skill.md",
     "system_prompt.md",
-    "battle_rules.md"
+    "battle_rules.md",
+    "world_data.md",
+    "encounter_tables.md"
   ],
   "tags": [
     "TRPG",
     "GM",
     "dark-fantasy",
     "worldbuilding",
-    "combat-system"
+    "combat-system",
+    "map",
+    "encounter"
   ]
 }
